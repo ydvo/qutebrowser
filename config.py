@@ -20,6 +20,7 @@ c.url.searchengines = {'DEFAULT': 'https://google.com/search?hl=en&q={}'}
 # Default page
 c.url.start_pages = ['/home/ydvo/.config/qutebrowser/startpage/startpage.html']
 c.url.default_page = '/home/ydvo/.config/qutebrowser/startpage/startpage.html'
+c.tabs.last_close = 'startpage'
 
 # Theme
 config.source('themes/qute-city-lights/city-lights-theme.py')
